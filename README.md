@@ -3,6 +3,8 @@ This project has been initially written for a Abseiling day, updated for
 a camera tethered to a kite and now is to be used in a school to demonstrate
 coding in a science club.
 
+A few extra files are loaded here to show basics of SenseHat control at each stage. Writing to the LED, a while loop counting, getting inputs and taking readings. The whole script is really just all these little ones added together.
+
 # Altimeter with a Raspberry Pi & SenseHat
 
 We live at the bottom of a sea of air. And just like the oceans of water where the pressure at the sea bed is far greater than that at the surface. The air pressure at sea level is greater than that on a mountain top. By measuring the air pressure it is possible to calculate your altitude above, or below, sea level. Or by measuring it at two levels calculate the difference in height. Which is the aim of this worksheet.
